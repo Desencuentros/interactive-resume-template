@@ -15,7 +15,7 @@ Built with React, TypeScript, Tailwind CSS, and Framer Motion.
 - **One config file** — Edit a single TypeScript file with your info
 - **Multi-language** — Built-in i18n support (add as many languages as you need)
 - **Dark / Light mode** — Auto-detects time of day, with manual toggle
-- **2 color presets** — minimal, warm (or fully custom)
+- **6 color presets** — minimal, warm, ocean, forest, slate, lilac (or fully custom)
 - **Responsive** — Mobile-first, works on all screen sizes
 - **Expandable experiences** — Click to expand details (inline on desktop, modal on mobile)
 - **Projects section** — Optional portfolio showcase
@@ -58,8 +58,12 @@ The `dist/` folder contains your static site. Deploy it anywhere. See [Deploymen
 
 | Preset | Style |
 |--------|-------|
-| `minimal` | Black and white with subtle accent (default) |
+| `minimal` | Black and white, clean and neutral (default) |
 | `warm` | Wood and earth tones |
+| `ocean` | Deep blue, professional and corporate |
+| `forest` | Sage green, calm and organic |
+| `slate` | Blue-grey, modern and tech |
+| `lilac` | Soft purple, elegant and creative |
 
 Set your preset in the config:
 

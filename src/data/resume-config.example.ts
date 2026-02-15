@@ -330,7 +330,7 @@ export const resumeConfig: ResumeConfig = {
 
   // ===== THEME =====
   theme: {
-    preset: 'warm', // 'minimal' | 'warm'
+    preset: 'warm', // 'minimal' | 'warm' | 'ocean' | 'forest' | 'slate' | 'lilac'
     // You can override individual colors:
     // colors: {
     //   primary: '#8B5A2B',
