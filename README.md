@@ -25,11 +25,11 @@ Built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## Not a developer? No problem!
 
-You don't need to install anything. Fork this repo, use an AI to generate your config, paste it on GitHub, and your resume is live.
+You don't need to install anything or write any code. An interactive guide walks you through everything, from creating a GitHub account to sharing your resume link.
 
-**[📖 Step-by-step guide (EN/FR)](./docs/GUIDE.md)** — Everything explained, from creating a GitHub account to sharing your resume.
+**[📖 Follow the step-by-step guide](https://clementbouly.dev/labs/interactive-resume-guide?lang=en)**
 
-**[🤖 AI Prompt](./docs/PROMPT-IA.md)** — Copy-paste this into ChatGPT or Claude with your PDF, and it generates the config file for you.
+> Also available in [Français](https://clementbouly.dev/labs/interactive-resume-guide?lang=fr)
 
 ---
 
